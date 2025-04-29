@@ -23,7 +23,7 @@
 
 <div align="center">
   <strong>🔊 Preview do podcast:</strong><br/><br/>
-  <audio src="output/podcast_editado_1.0.mp4" controls title="Podcast editado"></audio>
+  <audio src="output/podcast_editado_1.0.mp3" controls title="Podcast editado"></audio>
 </div>
 
 ---
